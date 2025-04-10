@@ -12,9 +12,9 @@ from pyrogram.errors.exceptions.bad_request_400 import (
 )
 from BADMUSIC.utils.database import get_assistant
 from config import API_ID, API_HASH
-from BADMUSIC import app
-from BADMUSIC.misc import SUDOERS
-from BADMUSIC.utils.database import get_assistant, clonebotdb
+from PURVIMUSIC import app
+from PURVIMUSIC.misc import SUDOERS
+from PURVIMUSIC.utils.database import get_assistant, clonebotdb
 from config import LOG_GROUP_ID 
 
 CLONES = set()
