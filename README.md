@@ -14,7 +14,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/GayatrixAnand/sonamusic"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BadshahAk/sonamusic"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
 
 <br />
 
